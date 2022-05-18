@@ -1,0 +1,3 @@
+<launch>
+	<node name="detection_test" pkg="detection_test" type="test.py" respawn="true" output="screen"></node>
+</launch>
